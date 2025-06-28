@@ -10,19 +10,19 @@ Creates the full Flask project folder in `F:\<your_project_name>` *
 Builds the following structure:    
 
 project_name/
-├── app.py                      # Flask boilerplate with routing
+├── app.py                      
 
-├── requirements.txt           # Auto-generated after installing Flask
+├── requirements.txt          
 
-├── venv/                      # Virtual environment with Flask installed
+├── venv/                      
 
 ├── templates/
 
-│   └── index.html             # Basic HTML linked with CSS/JS via url_for
+│   └── index.html            
 
 └── static/ 
-    ├── css/index.css          # Empty CSS file
-    └── js/index.js            # Empty JS file
+    ├── css/index.css         
+    └── js/index.js           
 
 Note : You'd have to install python in the system itself, and IDE (Vscode, Pycharm, etc)
        
