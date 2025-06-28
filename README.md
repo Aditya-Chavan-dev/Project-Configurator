@@ -11,12 +11,19 @@ Builds the following structure:
 
 project_name/
 ├── app.py                      # Flask boilerplate with routing
+
 ├── requirements.txt           # Auto-generated after installing Flask
+
 ├── venv/                      # Virtual environment with Flask installed
+
 ├── templates/
+
 │   └── index.html             # Basic HTML linked with CSS/JS via url_for
+
 └── static/
+    
     ├── css/index.css          # Empty CSS file
+
     └── js/index.js            # Empty JS file
 
 Note : You'd have to install python in the system itself, and IDE (Vscode, Pycharm, etc)
