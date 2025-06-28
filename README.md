@@ -20,10 +20,8 @@ project_name/
 
 │   └── index.html             # Basic HTML linked with CSS/JS via url_for
 
-└── static/
-    
+└── static/ 
     ├── css/index.css          # Empty CSS file
-
     └── js/index.js            # Empty JS file
 
 Note : You'd have to install python in the system itself, and IDE (Vscode, Pycharm, etc)
